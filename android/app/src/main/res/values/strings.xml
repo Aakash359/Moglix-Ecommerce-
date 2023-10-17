@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Moglix</string>
+    <string name="facebook_app_id">701875623592524</string>
+    <string name="fb_login_protocol_scheme">fb701875623592524</string>
+    <string name="asset_statements">
+        [{
+            \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+            \"target\": {
+              \"namespace\": \"web\",
+              \"site\": \"https://moglix.com\"
+            }
+          },{
+            \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+            \"target\": {
+              \"namespace\": \"web\",
+              \"site\": \"http://qam-revamp.moglilabs.com\"
+            }
+          },{
+            \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+            \"target\": {
+              \"namespace\": \"web\",
+              \"site\": \"http://localhost:4200\"
+            }
+          }]
+    </string>
+
+
+</resources>

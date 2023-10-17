@@ -1,0 +1,99 @@
+Fatal Exception: com.facebook.react.common.JavascriptException: TypeError: Cannot read property 'name' of undefined
+
+This error is located at:
+    in v
+    in Unknown
+    in Unknown
+    in Unknown
+    in RCTView
+    in Unknown
+    in RCTView
+    in Unknown
+    in RCTView
+    in Unknown
+    in Unknown
+    in RCTView
+    in Unknown
+    in f
+    in Unknown
+    in PanGestureHandler
+    in Unknown
+    in RCTView
+    in Unknown
+    in f
+    in Unknown
+    in RCTView
+    in Unknown
+    in M
+    in Unknown
+    in W
+    in RNSScreen
+    in f
+    in Unknown
+    in B
+    in Unknown
+    in RNSScreenContainer
+    in ScreenContainer
+    in Unknown
+    in RCTView
+    in Unknown
+    in Unknown
+    in D
+    in RNCSafeAreaProvider
+    in Unknown
+    in y
+    in GestureHandlerRootView
+    in Unknown
+    in O
+    in Unknown
+    in Unknown
+    in Unknown
+    in Unknown
+    in Unknown
+    in Unknown
+    in N
+    in u
+    in RCTView
+    in Unknown
+    in Unknown
+    in b
+    in RCTView
+    in Unknown
+    in RCTView
+    in Unknown
+    in C, js engine: hermes, stack:
+v@1:1704294
+wr@1:111754
+rl@1:116694
+Hl@1:149678
+ja@1:134860
+Ba@1:134718
+Qa@1:134602
+Ia@1:132167
+anonymous@1:102329
+anonymous@1:215693
+ft@1:101914
+ht@1:102147
+pt@1:102041
+Pa@1:129990
+Vr@1:115453
+anonymous@1:1707469
+anonymous@1:163721
+p@1:162772
+callTimers@1:164617
+value@1:65745
+anonymous@1:64223
+value@1:65189
+value@1:64181
+
+       at com.facebook.react.modules.core.ExceptionsManagerModule.reportException(:134)
+       at java.lang.reflect.Method.invoke(Method.java)
+       at com.facebook.react.bridge.JavaMethodWrapper.invoke(:148)
+       at com.facebook.react.bridge.JavaModuleWrapper.invoke(:21)
+       at com.facebook.react.bridge.queue.NativeRunnable.run()
+       at android.os.Handler.handleCallback(Handler.java:938)
+       at android.os.Handler.dispatchMessage(Handler.java:99)
+       at com.facebook.react.bridge.queue.MessageQueueThreadHandler.dispatchMessage()
+       at android.os.Looper.loop(Looper.java:255)
+       at com.facebook.react.bridge.queue.MessageQueueThreadImpl$4.run(:37)
+       at java.lang.Thread.run(Thread.java:923)

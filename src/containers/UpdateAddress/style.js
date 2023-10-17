@@ -1,0 +1,130 @@
+import {StyleSheet} from 'react-native';
+import Dimension from '../../redux/constants/dimensions';
+import colors from '../../redux/constants/colors';
+
+const styles = StyleSheet.create({
+  newinputfield: {
+    position: 'relative',
+    margin: 0,
+    padding: 0,
+  },
+  errorText: {
+    color: colors.RedThemeColor,
+    fontSize: Dimension.font11,
+    fontFamily: Dimension.CustomRegularFont,
+  },
+  useMyLocBtn: {
+    backgroundColor: colors.blueShade,
+    height: Dimension.height40,
+    flexDirection: 'row',
+    justifyContent: 'center',
+    borderRadius: Dimension.borderRadius8,
+    alignItems: 'center',
+    width: '48%',
+    marginTop: 22,
+  },
+  locIcon: {marginRight: 10},
+  useMyLocText: {
+    alignSelf: 'center',
+    color: '#fff',
+    fontSize: Dimension.font12,
+    fontFamily: Dimension.CustomSemiBoldFont,
+    marginTop: 2,
+  },
+  addnearbywrap: {flexDirection: 'row', marginVertical: Dimension.margin15},
+  addicon: {
+    fontSize: Dimension.font12,
+    marginRight: Dimension.margin5,
+    fontFamily: Dimension.CustomRegularFont,
+    color: colors.BlueText,
+    marginLeft: Dimension.margin2,
+    alignSelf: 'flex-start',
+    marginTop: Dimension.margin2,
+  },
+  addnearbytext: {
+    fontSize: Dimension.font12,
+    fontFamily: Dimension.CustomRegularFont,
+    color: colors.BlueText,
+    alignSelf: 'flex-start',
+  },
+  mapmyindiarow: {
+    flexDirection: 'row',
+    paddingVertical: Dimension.padding10,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  mapmyindiaimage: {width: 112, height: 36, marginLeft: Dimension.margin10},
+  mapmyindiatext: {
+    fontSize: Dimension.font12,
+    color: '#979797',
+    fontFamily: Dimension.CustomRegularFont,
+  },
+  checkoutBtn: {
+    // backgroundColor: colors.RedThemeColor,
+    justifyContent: 'center',
+    flexDirection: 'row',
+    alignItems: 'center',
+    margin: Dimension.padding5,
+    borderRadius: 4,
+    height: Dimension.height40,
+  },
+  checkoutText: {
+    fontSize: Dimension.font14,
+    fontFamily: Dimension.CustomBoldFont,
+    color: colors.white,
+    textAlign: 'center',
+  },
+  addrModuleWrap: {flex: 1, backgroundColor: '#fff'},
+  scrollViewPage: {flex: 1, paddingHorizontal: Dimension.padding12},
+  inputViewWrap: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'flex-start',
+    flexWrap: 'wrap',
+  },
+  checkboxContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginBottom: Dimension.margin20,
+    paddingTop: Dimension.padding10,
+  },
+  checklabel: {
+    fontSize: Dimension.font12,
+    fontFamily: Dimension.CustomRegularFont,
+    color: colors.PrimaryTextColor,
+    marginLeft: 10,
+  },
+  gstBtn: {
+    width: Dimension.width70,
+    height: Dimension.height30,
+    position: 'absolute',
+    right: 6,
+    top: 29,
+    zIndex: 3,
+    alignItems: 'center',
+    justifyContent: 'center',
+    borderRadius: Dimension.borderRadius4,
+  },
+  gstText: {
+    color: '#fff',
+    fontSize: Dimension.font12,
+    fontFamily: Dimension.CustomSemiBoldFont,
+  },
+  pickerCss: {
+    flex: 1,
+    fontSize: Dimension.font12,
+    height: Dimension.height40,
+    fontFamily: Dimension.CustomRegularFont,
+    color: colors.lightGrayText,
+  },
+  newinputfieldwithpicker: {
+    paddingRight: Dimension.padding12,
+    borderWidth: 1,
+    marginTop: 22,
+    borderColor: colors.lightGrayText,
+    borderRadius: 8,
+  },
+  citystateinputfield: {paddingRight: Dimension.padding15, margin: 0},
+});
+
+export default styles;

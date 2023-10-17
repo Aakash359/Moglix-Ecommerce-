@@ -1,0 +1,157 @@
+{
+  "project_info": {
+    "project_number": "847070515399",
+    "firebase_url": "https://halogen-framing-198806.firebaseio.com",
+    "project_id": "halogen-framing-198806",
+    "storage_bucket": "halogen-framing-198806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847070515399:android:fc0b60c0d9598db7f3aee2",
+        "android_client_info": {
+          "package_name": "com.moglix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847070515399-csa8ele83pr56llb2gms4m61ucph5aoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moglix",
+            "certificate_hash": "a957f91189a86f07aff4ab798055f3801ed27a17"
+          }
+        },
+        {
+          "client_id": "847070515399-h8c71ihm6a8to6m13odanmt947i7hn26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moglix",
+            "certificate_hash": "9c77de9839208c922cbff6edaca06fcc9f7db65c"
+          }
+        },
+        {
+          "client_id": "847070515399-ofgdd66fnlitdnhgjdosmnmvvrs7929p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moglix",
+            "certificate_hash": "d730ef0684efef62e0112d91d5b162170f3b8438"
+          }
+        },
+        {
+          "client_id": "847070515399-dd37moe0p42hrp0h4dke3scht7e30ijs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvqE3OKMeR14i7FEYe3c2PnIpaWfIYPZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108286715762624022484",
+              "client_type": 3
+            },
+            {
+              "client_id": "847070515399-3r7mlv2v4u3c017iem0dtk6hirur36bm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moglix.onlineapp",
+                "app_store_id": "1493763517"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847070515399:android:2909022c4df62457f3aee2",
+        "android_client_info": {
+          "package_name": "com.moglix.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847070515399-5jn5vkuko7gak9vqvh7hon3f97ih0djc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moglix.online",
+            "certificate_hash": "d730ef0684efef62e0112d91d5b162170f3b8438"
+          }
+        },
+        {
+          "client_id": "847070515399-acdunqp44bv84oknsj87g3jume3ocfv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moglix.online",
+            "certificate_hash": "72d2132565ec0ff04c07560c0628c38d38915b62"
+          }
+        },
+        {
+          "client_id": "847070515399-gqgnqoqdl3l46up6psrte606896sodf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moglix.online",
+            "certificate_hash": "539105933c71fb709c9e7348baf5c857f7d83784"
+          }
+        },
+        {
+          "client_id": "847070515399-j05n4c312dm72r6uajgp2b8p4qq2coou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moglix.online",
+            "certificate_hash": "b2025274b5282f994681a195db016cc1f984726a"
+          }
+        },
+        {
+          "client_id": "847070515399-qojkdhvi8u30hvma24kcp2djo90pdoce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moglix.online",
+            "certificate_hash": "a957f91189a86f07aff4ab798055f3801ed27a17"
+          }
+        },
+        {
+          "client_id": "847070515399-tf2nfo0kitsjosvp2t1mc3kus1ojhjbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moglix.online",
+            "certificate_hash": "d430fa8c99a9f312bf7fe4569ca205b186ed0b28"
+          }
+        },
+        {
+          "client_id": "847070515399-dd37moe0p42hrp0h4dke3scht7e30ijs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvqE3OKMeR14i7FEYe3c2PnIpaWfIYPZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108286715762624022484",
+              "client_type": 3
+            },
+            {
+              "client_id": "847070515399-3r7mlv2v4u3c017iem0dtk6hirur36bm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moglix.onlineapp",
+                "app_store_id": "1493763517"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

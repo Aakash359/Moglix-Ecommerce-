@@ -1,0 +1,33 @@
+Fatal Exception: com.facebook.react.common.JavascriptException: TypeError: Cannot read property 'india' of null, js engine: hermes, stack:
+Sa@1:1007019
+onPress@1:1010012
+value@1:255032
+value@1:254639
+onResponderRelease@1:253916
+o@1:91173
+h@1:91230
+g@1:91262
+b@1:91394
+xe@1:94848
+H@1:92952
+anonymous@1:95208
+ke@1:150405
+_e@1:94756
+Re@1:95045
+receiveTouches@1:144639
+value@1:65745
+anonymous@1:64223
+value@1:65189
+value@1:64181
+
+       at com.facebook.react.modules.core.ExceptionsManagerModule.reportException(:134)
+       at java.lang.reflect.Method.invoke(Method.java)
+       at com.facebook.react.bridge.JavaMethodWrapper.invoke(:148)
+       at com.facebook.react.bridge.JavaModuleWrapper.invoke(:21)
+       at com.facebook.react.bridge.queue.NativeRunnable.run()
+       at android.os.Handler.handleCallback(Handler.java:883)
+       at android.os.Handler.dispatchMessage(Handler.java:100)
+       at com.facebook.react.bridge.queue.MessageQueueThreadHandler.dispatchMessage()
+       at android.os.Looper.loop(Looper.java:237)
+       at com.facebook.react.bridge.queue.MessageQueueThreadImpl$4.run(:37)
+       at java.lang.Thread.run(Thread.java:919)
